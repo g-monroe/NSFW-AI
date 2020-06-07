@@ -1,1 +1,1 @@
-Hold up
+This project, is simply to create a way for another project to detect not safe for work pictures for profile images. This is only one part of two AI's that do this. This setup was running on a Google Cloud CentOs server.
